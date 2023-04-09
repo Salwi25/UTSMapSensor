@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UTSMapSensor</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="action_language">Language</string>
+    <string name="dynamic_fragment">Fragment App</string>
+    <string name="sensor_map">Sensor Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deskripsi">This sensor map application aims to determine the duration and distance to the place you want to go from where we are. This application uses the Google Map API as well as synchronization with Google Play so that it can open this sensor map application in real-time</string>
+    <string name="show_map">If you want to see the application, click the menu item at the top right corner and select Sensor Map</string>
+    <string name="appwidget_text">Click Here</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="purpose">How to access the app</string>
+    <string name="prev">Back</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTSMapSensor</string>
+    <string name="title_activity_maps">HalamanMap</string>
+    <string name="action_language">Bahasa</string>
+    <string name="dynamic_fragment">AplikasiFragment</string>
+    <string name="sensor_map">Peta Sensor</string>
+    <string name="hello_blank_fragment">halo fragment kosong</string>
+    <string name="deskripsi">"Aplikasi map sensor ini bertujuan untuk mengetahui durasi dan jarak pada tempat yang ingin dituju dari keberadaan kita. Aplikasi ini menggunakan Google Map API sekaligus disinkronisasaikan dengan Google Play agar dapat membuka aplikasi peta sensor ini secara real-time "</string>
+    <string name="show_map">Jika ingin melihat aplikasinya, klik bagian menu item di ujung kanan atas dan pilih Sensor Map</string>
+    <string name="appwidget_text">Klik Disini</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="app_widget_description">Ini adalah deskripsi app widget</string>
+    <string name="purpose">Cara Akses Aplikasinya</string>
+    <string name="prev">Kembali</string>
+</resources>

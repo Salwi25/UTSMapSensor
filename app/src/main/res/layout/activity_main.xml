@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="181dp"
+        android:layout_height="29dp"
+        android:text="Map Sensor"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="120dp"/>
+
+    <fragment
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout="@layout/fragment_desc_app"
+        android:name="com.example.utsmapsensor.DescAppFragment"
+        android:id="@+id/fragment_desc"/>
+    <Button
+        android:layout_width="278dp"
+        android:layout_height="48dp"
+        android:text="@string/purpose"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="70dp"
+        android:id="@+id/purpose"/>
+</LinearLayout>
